@@ -1,0 +1,45 @@
+# Social Engineering Research
+
+## Overview
+
+This research focuses on social engineering threats and approaches
+to improving cybersecurity awareness.
+
+## Research Area
+
+- Cybersecurity
+- Social Engineering
+- Human Factors
+- Cybersecurity Awareness
+
+## Publication
+
+**Title:** Development of an Interactive, Educational Site to Counter Social Engineering
+
+**Author:** Valeriia Yahlo
+
+**Year:** 2025
+
+## Abstract
+
+**Core Goal**: To design and implement a lightweight, accessible, fully Ukrainian-language 
+interactive web resource that educates non-technical users on social engineering techniques 
+and tests their knowledge to improve digital hygiene
+**Structure & Technologies**:
+*Architecture*: Developed entirely on client-side technologies (HTML5, CSS3, JavaScript) 
+as a single-page application (SPA) requiring no registration, back-end servers, or external databases.
+*Key Sections*:
+1. Theory: Concepts, principles, attack vectors (phishing, vishing, smishing, baiting, spear phishing, whaling), 
+and target demographics.
+2. Quiz/Testing: A 10-question test featuring interactive verification, automatic score calculation, visual 
+color feedback (green/red), and targeted hints referencing theoretical modules.
+3. Cheat Sheet: Key practical tips and an interactive table displaying user survey statistics on social engineering awareness.
+
+
+## Keywords
+
+Cybersecurity · Social Engineering · Information Security
+
+## Paper
+
+📄 [Download the paper](./paper.pdf)
